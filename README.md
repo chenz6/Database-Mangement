@@ -1,3 +1,3 @@
 # Database-mangment
 
-this is a solution for OSU CS540-Assignment solution
+this is my solutions for CS540-Assignment solution
